@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  /* Overriding (Reset) the default theme Color */
+  /* --color-*: initial; */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+
+  /* Set Font Family */
+  --font-display: "Satoshi", "sans-serif";
+
+  /* Set New Breakpoint */
+  --breakpoint-abc: 1000px;
+
+  /* Set New Color */
+  --color-white-100: #fdfaf6;
+  --color-white-200: #fff8f8;
+  --color-white-300: #efeeea;
+
+  --ease-fluid: cubic-bezier(0, 1, 1, 0);
+  --ease-snappy: cubic-bezier(1, 0, 0, 1);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
