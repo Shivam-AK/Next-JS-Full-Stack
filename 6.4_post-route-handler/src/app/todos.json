@@ -1,0 +1,17 @@
+[
+  {
+    "id": "a080412b-78f6-4b68-9860-28b033c93887",
+    "text": "Learn JS",
+    "completed": false
+  },
+  {
+    "id": "1d129516-cf69-47f0-9745-6a66218eea8e",
+    "text": "Master Next.js",
+    "completed": false
+  },
+  {
+    "id": "f7ff8f13-e471-4b27-beda-81b8d9b3ff26",
+    "text": "Master MongoDB",
+    "completed": false
+  }
+]
