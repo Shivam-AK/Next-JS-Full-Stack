@@ -1,0 +1,12 @@
+[
+  {
+    "id": "a080412b-78f6-4b68-9860-28b033c93887",
+    "text": "Learn JS",
+    "completed": false
+  },
+  {
+    "id": "1d129516-cf69-47f0-9745-6a66218eea8e",
+    "text": "Master Next.js 15",
+    "completed": true
+  }
+]
