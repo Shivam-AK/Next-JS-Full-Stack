@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1d129516-cf69-47f0-9745-6a66218eea8e",
+    "text": "Master Next.js 15",
+    "completed": true
+  },
+  {
+    "id": "321e7fb2-33c4-4a94-94ed-6008ffeb5a66",
+    "text": "Master Node.JS",
+    "completed": true
+  },
+  {
+    "id": "5bade1b3-4f5c-4e17-b81a-2121ef709ec8",
+    "text": "Learn SEO",
+    "completed": true
+  }
+]
