@@ -1,0 +1,10 @@
+{
+  "HomePage": {
+    "title": "Hello",
+    "content": "Welcome to our Website."
+  },
+  "AboutPage": {
+    "title": "Shivam Kumar",
+    "content": "Frontend Developer."
+  }
+}
