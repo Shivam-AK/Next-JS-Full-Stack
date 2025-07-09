@@ -3,7 +3,7 @@ npm run lint:staged
 
 echo "✅ Linting Complete."
 
-# echo "🧠 Checking Types..."
-# npx tsc --noEmit
+echo "🧠 Checking Types..."
+npx tsc --noEmit
 
 echo "✅ Proceeding with Commit."
